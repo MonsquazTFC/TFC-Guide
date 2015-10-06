@@ -1,6 +1,14 @@
-# Windows image file caches
+# jekyll-specific
+_drafts/
+_site/
+
+# ruby trash
+Gemfile.lock
+
+# windows trash
 Thumbs.db
 ehthumbs.db
+desktop.ini
 
-# Folder config file
-Desktop.ini
+# osx trash
+.DS_Store
