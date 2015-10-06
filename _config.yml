@@ -1,0 +1,2 @@
+baseurl: /TFC-Guide
+exclude: [ Gemfile, Gemfile.lock, Procfile, vendor, gems ]
